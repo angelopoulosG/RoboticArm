@@ -1,11 +1,10 @@
-# 3D Printed Robotic Arm.
+# 3D Printed Robotic Arm
 `This project was created on January 2016.`
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/98b930c5347c4fa4b093491d5b413945)](https://www.codacy.com/gh/angelopoulosG/RoboticArm/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=angelopoulosG/RoboticArm&amp;utm_campaign=Badge_Grade)
 
 ## Abstract 
 Our goal is to reduce the barrier to entry for the field of robotics and make it exponentially more accessible for people around the world. Although the design is not perfect, overall the work is useful in successfully building a robotic arm that is programmed with ease.
-
 
 ## Prerequisites 
 
@@ -30,7 +29,6 @@ The 3D model of the robotic arm can be found on the file `full_assem.stl`
 <p align="center">
 <img src="roboticarm.png" width="650">
 </p>
-
 
 ## Authors
 
