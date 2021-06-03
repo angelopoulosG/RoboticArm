@@ -31,12 +31,9 @@ The 3D model of the robotic arm can be found on the file `full_assem.stl`
 </p>
 
 ## Authors
-
-*  [**Georgios Angelopoulos**](https://www.linkedin.com/in/george-angelopoulos/)
-
-*  [**Angelos Chatzimparmpas**](https://www.linkedin.com/in/angelos-chatzimparmpas/)
-
-*  [**Georgios Kalampokis**](https://www.linkedin.com/in/george-kalampokis-130875b5/)
+* [**Georgios Angelopoulos**](https://www.linkedin.com/in/george-angelopoulos/)
+* [**Angelos Chatzimparmpas**](https://www.linkedin.com/in/angelos-chatzimparmpas/)
+* [**Georgios Kalampokis**](https://www.linkedin.com/in/george-kalampokis-130875b5/)
 
 ## Acknowledgments
 
